@@ -14,7 +14,7 @@ def main():
         module = importlib.import_module(assignment)
         module.main()
 
-    print("All assignments ran")
+    print(">> Done")
 
 
 if __name__ == "__main__":
