@@ -159,7 +159,6 @@ def game(word):
         print("The word was " + word)
 
 
-
 def main():
     while True:
         word = select_word()
